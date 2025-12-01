@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛍️ Vastra Pvt Ltd
+# 🛍️ Indie Textile Hub LLP
 ### *Where Tradition Meets Modern Fashion*
 
 [![Website](https://img.shields.io/badge/Website-vastra.com-pink?style=for-the-badge&logo=globe)](https://vastra.com)
@@ -16,7 +16,7 @@
 
 ## 🌟 About Us
 
-At **Vastra Pvt Ltd**, we're passionate about preserving the rich heritage of Indian fashion while embracing contemporary styles. Our carefully curated collection features exquisite sarees, elegant ethnic wear, and modern fusion clothing that celebrates the beauty of Indian craftsmanship.
+At **Indie Textile Hub LLP**, we're passionate about preserving the rich heritage of Indian fashion while embracing contemporary styles. Our carefully curated collection features exquisite sarees, elegant ethnic wear, and modern fusion clothing that celebrates the beauty of Indian craftsmanship.
 
 ### 🎯 Our Mission
 To make beautiful, authentic Indian clothing accessible to women worldwide, celebrating tradition while embracing modern convenience through our seamless e-commerce experience.
@@ -122,7 +122,7 @@ Stay updated with our latest collections, styling tips, and fashion trends!
 
 *"Fashion is not something that exists in dresses only. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening." - Coco Chanel*
 
-**© 2025 Vastra Pvt Ltd. All rights reserved.**
+**© 2025 Indie Textile Hub LLP. All rights reserved.**
 
 </div>
 
